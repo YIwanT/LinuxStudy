@@ -4,5 +4,5 @@
 
 ## 个人总结的一个简单脑图
 
-![Linux](D:\study\Linux学习\gitRepo\picture\Linux.png)
+![Linux](picture\Linux.png)
 
