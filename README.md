@@ -4,5 +4,3 @@
 
 ## 个人总结的一个简单脑图
 
-![Linux](https://github.com/YIwanT/LinuxStudy/blob/main/picture/Linux.png)
-
